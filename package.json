@@ -1,0 +1,28 @@
+{
+  "name": "express-todo_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richiewong07/express-todo_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richiewong07/express-todo_app/issues"
+  },
+  "homepage": "https://github.com/Richiewong07/express-todo_app#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.12.1",
+    "pg-promise": "^7.3.1",
+    "prompt-promise": "^1.0.3"
+  }
+}
